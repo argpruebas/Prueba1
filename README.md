@@ -14,6 +14,12 @@ Una prueba para ver cómo muestra github README espacios,etc.
 
 <img width="946" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/dark.png">
 
+## IMAGENES
+
+<img width="865" src="https://raw.githubusercontent.com/argpruebas/Pueba1/main/li.png">
+
+<img width="865" src="https://raw.githubusercontent.com/argpruebas/Pueba1/main/li.png">
+
 ## REGLAS
 
 1. Las letras a y b.

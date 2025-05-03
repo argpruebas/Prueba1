@@ -32,6 +32,18 @@ Una prueba para ver cómo muestra github README espacios,etc.
 
 ![](da.png)
 
+## IMAGENES 2
+
+![](li22.png)
+
+![](da22.png)
+
+## IMAGENES 2
+
+![](li33.png)
+
+![](da33.png)
+
 ## REGLAS
 
 1. Las letras a y b.

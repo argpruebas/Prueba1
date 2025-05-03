@@ -8,6 +8,12 @@ Una prueba para ver cómo muestra github README espacios,etc.
 
 <img src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/dark.png">
 
+## IMAGENES
+
+<img width="946" height="465" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/light.png">
+
+<img width="946" height="466" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/dark.png">
+
 ## REGLAS
 
 1. Las letras a y b.
@@ -37,7 +43,19 @@ Combinaciones de lista
 
 Otro salto de línea
 
-Último salto de linea
+Último salto de linea : ( [Enlace](https://github.com) )
+
+## REGLAS
+
+&#226; 1. Las letras se separan
+
+&#226; 2. Las letras se separan
+
+&#226; 3. Las letras se separan
+
+&#226; 4. Las letras se separan
+
+Otro salto de línea para ver espacios
 
 - 
 

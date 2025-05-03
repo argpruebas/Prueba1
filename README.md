@@ -10,9 +10,9 @@ Una prueba para ver cómo muestra github README espacios,etc.
 
 ## IMAGENES
 
-<img width="946" height="465" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/light.png">
+<img width="946" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/light.png">
 
-<img width="946" height="466" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/dark.png">
+<img width="946" src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/dark.png">
 
 ## REGLAS
 
@@ -47,15 +47,15 @@ Otro salto de línea
 
 ## REGLAS
 
-&#226; 1. Las letras se separan
+&#8226; 1. Las letras se separan
 
-&#226; 2. Las letras se separan
+&#8226; 2. Las letras se separan
 
-&#226; 3. Las letras se separan
+&#8226; 3. Las letras se separan
 
-&#226; 4. Las letras se separan
+&#8226; 4. Las letras se separan
 
-Otro salto de línea para ver espacios
+### Otro salto de línea para ver espacio
 
-- 
+
 

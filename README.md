@@ -18,7 +18,19 @@ Una prueba para ver cómo muestra github README espacios,etc.
 
 <img width="865" src="https://raw.githubusercontent.com/argpruebas/Prueba1/main/li.png">
 
-<img width="865" src="https://raw.githubusercontent.com/argpruebas/Prueba1/main/li.png">
+<img width="865" src="https://raw.githubusercontent.com/argpruebas/Prueba1/main/da.png">
+
+## IMAGENES
+
+<img src="https://raw.githubusercontent.com/argpruebas/Prueba1/main/li.png">
+
+<img src="https://raw.githubusercontent.com/argpruebas/Prueba1/main/da.png">
+
+## IMAGENES
+
+![](li.png)
+
+![](da.png)
 
 ## REGLAS
 

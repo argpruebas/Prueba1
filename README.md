@@ -1,5 +1,14 @@
-# Prueba1
-Prueba1
+# PRUEBA UNO
+
+Una prueba para ver cómo muestra github README espacios,etc.
+
+## IMAGENES
+
+<img src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/light.png">
+
+<img src="https://raw.githubusercontent.com/harmotus/syllable-separator/refs/heads/main/docs/dark.png">
+
+## REGLAS
 
 1. Las letras a y b.
 2. Las palabras a y c.

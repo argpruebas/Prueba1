@@ -28,5 +28,16 @@ Otro ítem para ver la altura
 - Las vocales a y e.
 - Las consonantes s y g.
 
+Combinaciones de lista
+
+- 1. La letra e y f son buenas
+- 2. La letra g es suave
+- 3. La consonante x es flexible
+- 4. La combinación gt no se ve
+
+Otro salto de línea
+
+Último salto de linea
+
 - 
 
